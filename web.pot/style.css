@@ -1,0 +1,46 @@
+* Add this CSS to your existing CSS file */ #home h1 {
+    color: white;
+}
+
+#home p {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+#home img {
+    max-width: 90%;
+    height: 90;
+}
+
+
+/* Add this CSS to your existing CSS file */
+
+#projects h2 {
+    color: #333;
+}
+
+#projects p {
+    color: #666;
+}
+
+#projects .bg-gray-100 {
+    border: 1px solid #ddd;
+}
+
+
+/* Add this CSS to your existing CSS file */
+
+#skills h2 {
+    color: #333;
+}
+
+#skills h3 {
+    color: #555;
+}
+
+#skills ul {
+    color: #777;
+}
+
+#skills li {
+    margin-bottom: 0.5rem;
+}
